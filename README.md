@@ -1,4 +1,4 @@
-\>>> AliceWish    
+\>>> Alice
 “focuses on mathematics and computation.”    
 
 \>>> Field    
