@@ -1,5 +1,10 @@
-\>>> Alice    
-“focuses on mathematics and computation.”    
-
-\>>> Field    
-['Formalization and Modeling', 'Database Systems', 'Distributed Systems', 'Statistic']
+> **>>> Alice**
+> 
+> “focuses on mathematics and computation.”
+> 
+> **>>> Field**
+> 
+> - Formalization and Modeling
+> - Database Systems
+> - Distributed Systems
+> - Statistic
