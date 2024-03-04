@@ -1,6 +1,6 @@
-<span style="color:yellow;">Alice</span>   
-
-“focuses on mathematics and computation.”
-
-<span style="color:yellow;">Field</span>   
-['Formalization and Modeling', 'Database Systems', 'Distributed Systems', 'Statistic']
+```python
+>>> import Alice
+"Hi, I'm Alice! Glad to meet you!"
+>>> Alice.interests
+{'Statistic','Concurrency System'}
+```
