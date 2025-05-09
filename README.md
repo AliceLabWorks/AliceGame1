@@ -1,6 +1,6 @@
 ```python
->>> import Alice
-"Hi, I'm Alice! Glad to meet you!"
->>> Alice.interests
+>>> import AliceLab
+"Hi, Here is AliceLab! Glad to meet you!"
+>>> AliceLab.Fields
 {'Statistic','Concurrency System'}
 ```
